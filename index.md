@@ -16,9 +16,13 @@ You can contact me at haneen@nyu.edu
 
 ### News!
 
-**<a href="https://sanaelotfi.github.io/pdf/project_reports/pac_bayes_bounds_survey.pdf" target="_blank">Understanding the Generalization of Deep Neural Networks through PAC-Bayes bounds </a>**\
-Andres Potapczynski, Sanae Lotfi, Anthony Chen, Chris Ick \
-Class Project for the Mathematics of Deep Learning, CS-GA 3033, Spring 2022
+**<a href="https://github.com/HaneenSu/" target="_blank">Successful PhD defence</a>**\
+I joined the Center for Artificial Intelligence and Robotics (CAIR) as a Post-Doctoral Associate. ”\
+October 23rd, 2022\
+
+**<a href="https://github.com/HaneenSu/" target="_blank">Successful PhD defence</a>**\
+I defended my thesis at New York University Tandon School of Engineering, entitled “A Machine-Learning-Based Neurocognitive Framework to Evaluate the Experience of Haptic Delay”\
+September 9th, 2022\
 
 ---
 ### Publications
@@ -87,7 +91,7 @@ _IEEE International Symposium on Circuits and Systems (ISCAS), 2017_
 W. Saadeh, **H. Alsuradi**, M. Altaf and J. Yoo\
 _IEEE Asian Solid-State Circuits Conference (A-SSCC) **(Presenting Author)**, 2016_
 
-**[he collinear resonance ionization spectroscopy (CRIS) experimental setup at CERN-ISOLDE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8050942)** \
+**[The collinear resonance ionization spectroscopy (CRIS) experimental setup at CERN-ISOLDE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8050942)** \
 T.E. Cocolios, **H. Alsuradi**, et al.\
 _Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms **(Presenting Author)**, 2013_
 
