@@ -93,7 +93,7 @@ _IEEE Asian Solid-State Circuits Conference (A-SSCC) **(Presenting Author)**, 20
 
 **[The collinear resonance ionization spectroscopy (CRIS) experimental setup at CERN-ISOLDE](https://www.sciencedirect.com/science/article/pii/S0168583X13007088)** \
 T.E. Cocolios, **H. Alsuradi**, et al.\
-_Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms **(Presenting Author)**, 2013_
+_Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, 2013_
 
 
 ---
