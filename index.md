@@ -2,13 +2,13 @@ I am a Post-Doctoral Associate at the [Center for Artificial Intelligence and Ro
 
 I have obtained my PhD in Electrical Engineering from NYU Tandon School of Engineering in September 2022. My PhD research was in the intriguing intersection of haptics, neuroscience, signal processing and machine learning. The main focus during my PhD journey was focused on developing a conceptual framework for modeling and understanding the haptic experience through neural EEG data and Machine Learning. My PhD research was conducted at the [Applied Interactive Multimedia (AIM)](https://wp.nyu.edu/aimlab/) and sypervised by [Dr.Mohamad Eid](https://engineering.nyu.edu/faculty/mohamad-eid). I was generously supported by the [Global PhD Student Fellowships in Engineering](https://nyuad.nyu.edu/en/admissions/graduate/global-phd-student-fellowships-in-engineering.html) during my PhD time.
 
-Prior to NYU, I obtained a master’s degree in Microsystems Engineering from [Masdar Institute of Science and Technology (now Khalifa University)](https://www.ku.ac.ae/). I was fortunate to work there with [Prof.Jerald Yoo](https://cde.nus.edu.sg/ece/staff/jerald-yoo/) to model and characterize printed passive electrical elements on medical Hydrocolloids.  
+Prior to NYU, I obtained a master’s degree in Microsystems Engineering from [Masdar Institute of Science and Technology (now Khalifa University)](https://www.ku.ac.ae/). I was fortunate to work there with [Prof. Jerald Yoo](https://cde.nus.edu.sg/ece/staff/jerald-yoo/) to model and characterize printed passive electrical elements on medical Hydrocolloids.  
 
 ---
 You can contact me at haneen@nyu.edu
 
 
-<a href="https://Haneensu.github.io/cv/HaneenCV_Jan23.pdf.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=vqt4vMoAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/haneen-alsuradi-7a2335a4/), [Github](https://github.com/HaneenSu)
+<a href="https://Haneensu.github.io/cv/HaneenCV_Jan23.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=vqt4vMoAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/haneen-alsuradi-7a2335a4/), [Github](https://github.com/HaneenSu)
 <!-- Remove above link if you don't want to attibute -->
 
 
@@ -41,7 +41,7 @@ Delay](https://www.nature.com/articles/s41598-022-12911-0)** \
 **H. Alsuradi**, W. Park, and M. Eid \
 _Scientific Reports, 2022_
 
-**[Midfrontal Theta Oscillation Encodes Haptic Delay](https://www.frontiersin.org/articles/10.3389/frobt.2022.1013043/full)** \
+**[Midfrontal Theta Oscillation Encodes Haptic Delay](https://www.nature.com/articles/s41598-021-95631-1)** \
 **H. Alsuradi**, W. Park, and M. Eid \
 _Scientific Reports, 2021_
 
@@ -87,11 +87,11 @@ _IEEE Journal of Solid-State Circuits, 2017_
 **H. Alsuradi**, and J. Yoo \
 _IEEE International Symposium on Circuits and Systems (ISCAS), 2017_
 
-**[A 1.1 mW hybrid OFDM ground effect-resilient body coupled communication transceiver for head and body area network ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8050942)** \
+**[A 1.1 mW hybrid OFDM ground effect-resilient body coupled communication transceiver for head and body area network ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7844170)** \
 W. Saadeh, **H. Alsuradi**, M. Altaf and J. Yoo\
 _IEEE Asian Solid-State Circuits Conference (A-SSCC) **(Presenting Author)**, 2016_
 
-**[The collinear resonance ionization spectroscopy (CRIS) experimental setup at CERN-ISOLDE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8050942)** \
+**[The collinear resonance ionization spectroscopy (CRIS) experimental setup at CERN-ISOLDE](https://www.sciencedirect.com/science/article/pii/S0168583X13007088)** \
 T.E. Cocolios, **H. Alsuradi**, et al.\
 _Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms **(Presenting Author)**, 2013_
 
