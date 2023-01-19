@@ -16,7 +16,7 @@ You can contact me at haneen@nyu.edu
 
 ### News!
 
-**<a href="https://github.com/HaneenSu/" target="_blank">Successful PhD defence</a>**\
+**<a href="https://github.com/HaneenSu/" target="_blank">Joined CAIR at NYUAD</a>**\
 I joined the Center for Artificial Intelligence and Robotics (CAIR) as a Post-Doctoral Associate. ”\
 October 23rd, 2022\
 
