@@ -8,80 +8,91 @@ Prior to NYU, I obtained a master’s degree in Microsystems Engineering from [M
 You can contact me at haneen@nyu.edu
 
 
-<a href="https://Haneensu.github.io/cv/HAlsuradi_CV_Jan2023.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=vqt4vMoAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/haneen-alsuradi-7a2335a4/), [Github](https://github.com/HaneenSu)
+<a href="https://Haneensu.github.io/cv/aneenCV_Jan23.pdf.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=vqt4vMoAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/haneen-alsuradi-7a2335a4/), [Github](https://github.com/HaneenSu)
 <!-- Remove above link if you don't want to attibute -->
 
 
 ---
-### Publications 
 
-**[PAC-Bayes Compression Bounds So Tight That They Can Explain Generalization](https://arxiv.org/abs/2211.13609)** \
-**Sanae Lotfi<sup>\*</sup>**, Marc Finzi<sup>\*</sup>, Sanyam Kapoor<sup>\*</sup>, Andres Potapczynski<sup>\*</sup>, Micah Goldblum, Andrew Gordon Wilson \
-_Neural Information Processing Systems (NeurIPS), 2022_
-
-
-**[Bayesian Model Selection, the Marginal Likelihood, and Generalization](https://arxiv.org/abs/2202.11678)** \
-**Sanae Lotfi**, Pavel Izmailov, Gregory Benton, Micah Goldblum, Andrew Gordon Wilson \
-_International Conference on Machine Learning (ICML), 2022_ \
-**Long oral presentation, top 2% submissions** \
-**Outstanding Paper Award** \
-[[arxiv](https://arxiv.org/pdf/2202.11678.pdf), [code](https://github.com/Sanaelotfi/Bayesian_model_comparison), <a href="https://sanaelotfi.github.io/pdf/posters/LML_Poster_ICML_2022.pdf" target="_blank">poster</a>, [talk](https://slideslive.com/38983095/bayesian-model-selection-the-marginal-likelihood-and-generalization), <a href="https://sanaelotfi.github.io/pdf/slides/conference_presentations/LML_Sanae_Lotfi_ICML_2022.pdf" target="_blank">slides</a>]
-
-
-**[Adaptive First-and Second-Order Algorithms for Large-Scale Machine Learning](https://arxiv.org/abs/2111.14761)** \
-**Sanae Lotfi**, Tiphaine Bonniot de Ruisselet, Dominique Orban, Andrea Lodi \
-_Annual Conference on Machine Learning, Optimization, and Data Science (LOD), 2022_ \
-**Oral presentation**\
-[[arxiv](https://arxiv.org/pdf/2111.14761.pdf)]
-
-**[Evaluating Approximate Inference in Bayesian Deep Learning](https://proceedings.mlr.press/v176/wilson22a/wilson22a.pdf)** \
-Andrew Gordon Wilson, **Sanae Lotfi**, Sharad Vikram, Matthew D. Hoffman, Yarin Gal, Yingzhen Li, Melanie F. Pradier, Andrew Foong, Sebastian Farquhar, Pavel Izmailov \
-_NeurIPS Competition and Demonstration Track, Proceedings of Machine Learning Research (PMLR), 2022_ \
-[[plmr](https://proceedings.mlr.press/v176/wilson22a/wilson22a.pdf), [code](https://github.com/izmailovpavel/neurips_bdl_starter_kit), [website](https://izmailovpavel.github.io/neurips_bdl_competition/)]
-
-
-**[Dangers of Bayesian Model Averaging under Covariate Shift](https://arxiv.org/abs/2106.11905)** \
-Pavel Izmailov, Patrick Nicholson, **Sanae Lotfi**, Andrew Gordon Wilson \
-_Neural Information Processing Systems (NeurIPS), 2021_ \
-[[arxiv](https://arxiv.org/abs/2106.11905), [code](https://github.com/izmailovpavel/bnn_covariate_shift), <a href="https://sanaelotfi.github.io/pdf/posters/BMA_Dangers_Poster_NeurIPS_2021.pdf" target="_blank">poster</a>]
-
-**[Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling](https://arxiv.org/abs/2102.13042)** \
-Gregory W. Benton, Wesley J. Maddox, **Sanae Lotfi**, Andrew Gordon Wilson \
-_International Conference on Machine Learning (ICML), 2021_ \
-**Spotlight presentation** \
-[[arxiv](https://arxiv.org/abs/2102.13042), [code](https://github.com/g-benton/loss-surface-simplexes), <a href="https://sanaelotfi.github.io/pdf/slides/conference_presentations/Loss_Surface_Simplexes_ICML_2021.pdf" target="_blank">slides</a>]
-
-**[Stochastic Damped L-BFGS with Controlled Norm of the Hessian Approximation](https://arxiv.org/abs/2012.05783)**\
-**Sanae Lotfi**, Tiphaine B. de Ruisselet, Dominique Orban, Andrea Lodi \
-_SIAM Conference on Optimization, 2021_ \
-**Oral presentation** \
-_NeurIPS Optimization for Machine Learning Workshop, 2020_ \
-**Spotlight presentation** \
-[[arxiv](https://arxiv.org/abs/2012.05783)]
-
-**[Stochastic First and Second Order Optimization Methods for Machine Learning](https://publications.polymtl.ca/5457/)** \
-**Sanae Lotfi** \
-_Master's Thesis, 2020_ \
-**Best Thesis Award in Applied Mathematics at Polytechnique Montreal** \
-Polytechnique Montreal
-
-<sup>*</sup>: Equal first authorship. 
-
----
-### Surveys
+### News!
 
 **<a href="https://sanaelotfi.github.io/pdf/project_reports/pac_bayes_bounds_survey.pdf" target="_blank">Understanding the Generalization of Deep Neural Networks through PAC-Bayes bounds </a>**\
 Andres Potapczynski, Sanae Lotfi, Anthony Chen, Chris Ick \
 Class Project for the Mathematics of Deep Learning, CS-GA 3033, Spring 2022
 
-**<a href="https://sanaelotfi.github.io/pdf/project_reports/causal_representation_learning_survey.pdf" target="_blank">Causal Representation Learning </a>**\
-Sanae Lotfi, Taro Makino, Lily Zhang \
-Class Project for Inference and Representation, DS-GA 1005, Fall 2021
+---
+### Publications
+
+**[Assessment of EEG-based Functional Connectivity in Response to Haptic Delay](https://www.frontiersin.org/articles/10.3389/fnins.2022.961101/full)** \
+**H. Alsuradi**, W. Park, and M. Eid \
+_Frontiers in Neuroscience, 2022_
+
+**[An ensemble deep learning approach to evaluate haptic delay from a
+single trial EEG data](https://www.frontiersin.org/articles/10.3389/frobt.2022.1013043/full)** \
+**H. Alsuradi**, and M. Eid \
+_Frontiers in Robotics and AI, 2022_
+
+**[Midfrontal Theta Oscillation Encodes the value of Haptic
+Delay](https://www.nature.com/articles/s41598-022-12911-0)** \
+**H. Alsuradi**, W. Park, and M. Eid \
+_Scientific Reports, 2022_
+
+**[Midfrontal Theta Oscillation Encodes Haptic Delay](https://www.frontiersin.org/articles/10.3389/frobt.2022.1013043/full)** \
+**H. Alsuradi**, W. Park, and M. Eid \
+_Scientific Reports, 2021_
+
+**[FaceGuard: A Wearable System To Avoid Face Touching](https://www.frontiersin.org/articles/10.3389/frobt.2021.612392/full)** \
+A. Michelin, G. Korres, S. Ba’ara, H. Assadi, **H. Alsuradi**, R. Sayegh, A. Argyros, M. Eid\
+_Frontiers in Robotics and AI, 2021_
+
+
+**[Trial-based Classification of Haptic Tasks Based on EEG Data](https://ieeexplore.ieee.org/document/9517230)** \
+**H. Alsuradi**, and M. Eid \
+_IEEE World Haptics Conference (WHC), 2021_
+
+**[EEG-based Classification of the Intensity of Emotional Responses](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9441371)** \
+V. Babushkin, W. Park, M. Jamil, **H. Alsuradi**, and M. Eid\
+_10th International IEEE/EMBS Conference on Neural Engineering (NER), 2021_
+
+
+**[EEG-based Neurohaptic Research: A Literature Review](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9031313)** \
+**H. Alsuradi**, W. Park, and M. Eid \
+_IEEE Access, 2020_
+
+**[Explainable Classification of EEG Data for an Active Touch Task using Shapely Values](https://link.springer.com/chapter/10.1007/978-3-030-60117-1_30)** \
+**H. Alsuradi** W. Park, and M. Eid \
+_International Conference on Human-Computer Interaction, 2020_
+
+
+**[Detection of Tactile Feedback on Touch-screen Devices using EEG Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9086297)** \
+**H. Alsuradi**, C. Pawar, W. Park, and M. Eid \
+_IEEE Haptics Symposium (HAPTICS), 2020_
+
+
+
+**[Screen Printed Passives and Interconnects on Medical Hydrocolloid Dressing for Wearable Sensors](https://www.nature.com/articles/s41598-019-53033-4)** \
+**H. Alsuradi**, and J. Yoo \
+_Scientific Reports, 2019_
+
+**[A 1.1-mW ground effect-resilient body-coupled communication transceiver with pseudo OFDM for head and body area network](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7971921)** \
+W. Saadeh, MAB. Altaf, **H. Alsuradi**, J. Yoo\
+_IEEE Journal of Solid-State Circuits, 2017_
+
+
+**[Design and Modeling of an Inductive Coupling Wireless Power Transfer Using Printed Spirals on Medical Hydrocolloid Dressings](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8050942)** \
+**H. Alsuradi**, and J. Yoo \
+_IEEE International Symposium on Circuits and Systems (ISCAS), 2017_
+
+**[A 1.1 mW hybrid OFDM ground effect-resilient body coupled communication transceiver for head and body area network ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8050942)** \
+W. Saadeh, **H. Alsuradi**, M. Altaf and J. Yoo\
+_IEEE Asian Solid-State Circuits Conference (A-SSCC) **(Presenting Author)**, 2016_
+
+**[he collinear resonance ionization spectroscopy (CRIS) experimental setup at CERN-ISOLDE](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8050942)** \
+T.E. Cocolios, **H. Alsuradi**, et al.\
+_Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms **(Presenting Author)**, 2013_
+
 
 ---
-### Selected Media Coverage
 
-**[Scholar Q&A: Sanae](https://www.deepmind.com/scholarships/scholars/sanae)**, DeepMind, 2021 
 
-**[DeepMind Fellow Profile: Sanae Lotfi](https://nyudatascience.medium.com/deepmind-fellow-profile-sanae-lotfi-9197c0c5fb94)**, NYU Center for Data Science, 2020
 
