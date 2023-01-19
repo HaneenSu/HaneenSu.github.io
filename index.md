@@ -8,7 +8,7 @@ Prior to NYU, I obtained a master’s degree in Microsystems Engineering from [M
 You can contact me at haneen@nyu.edu
 
 
-<a href="https://Haneensu.github.io/cv/HaneenCV_Jan23.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=vqt4vMoAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/haneen-alsuradi-7a2335a4/), [Github](https://github.com/HaneenSu)
+<a href="https://Haneensu.github.io/cv/Haneen_CV_Jan23.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=vqt4vMoAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/haneen-alsuradi-7a2335a4/), [Github](https://github.com/HaneenSu)
 <!-- Remove above link if you don't want to attibute -->
 
 
@@ -18,11 +18,11 @@ You can contact me at haneen@nyu.edu
 
 **<a href="https://github.com/HaneenSu/" target="_blank">Joined CAIR at NYUAD</a>**\
 I joined the Center for Artificial Intelligence and Robotics (CAIR) as a Post-Doctoral Associate. ”\
-October 23rd, 2022\
+_October 23rd, 2022
 
 **<a href="https://github.com/HaneenSu/" target="_blank">Successful PhD defence</a>**\
 I defended my thesis at New York University Tandon School of Engineering, entitled “A Machine-Learning-Based Neurocognitive Framework to Evaluate the Experience of Haptic Delay”\
-September 9th, 2022\
+_September 9th, 2022
 
 ---
 ### Publications
