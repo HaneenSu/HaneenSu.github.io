@@ -16,11 +16,11 @@ You can contact me at haneen@nyu.edu
 
 ### News!
 
-**<a href="https://github.com/HaneenSu/" target="_blank">Joined CAIR at NYUAD</a>**\
+**<a href="https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/center-for-artificial-intelligence-and-robotics.html" target="_blank">Joined CAIR at NYUAD</a>**\
 I joined the Center for Artificial Intelligence and Robotics (CAIR) as a Post-Doctoral Associate. ”\
 _October 23rd, 2022_
 
-**<a href="https://github.com/HaneenSu/" target="_blank">Successful PhD defence</a>**\
+**<a href="https://aimlab-haptics.com/news/successful-phd-defense-haneen-alsuradi" target="_blank">Successful PhD defence</a>**\
 I defended my thesis at New York University Tandon School of Engineering, entitled “A Machine-Learning-Based Neurocognitive Framework to Evaluate the Experience of Haptic Delay”\
 _September 9th, 2022_
 
