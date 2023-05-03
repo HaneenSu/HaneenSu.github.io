@@ -16,6 +16,11 @@ You can contact me at haneen@nyu.edu
 
 ### News!
 
+
+**<a href="https://ieeexplore.ieee.org/document/10113808" target="_blank">Accepted Journal paper at ToH</a>**\
+Under the special issue of World Haptics Conference 2023 ”\
+_May, 2023_
+
 **<a href="https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/center-for-artificial-intelligence-and-robotics.html" target="_blank">Joined CAIR at NYUAD</a>**\
 I joined the Center for Artificial Intelligence and Robotics (CAIR) as a Post-Doctoral Associate. ”\
 _October 23rd, 2022_
