@@ -16,6 +16,13 @@ You can contact me at haneen@nyu.edu
 
 ### News!
 
+**<a href="https://iopscience.iop.org/article/10.1088/1741-2552/acfbf9/pdf" target="_blank">Accepted Journal paper at JNE</a>**\
+On vibration intensity classification from single trial EEG data. ”\
+_September, 2023_
+
+**<a href="https://www.frontiersin.org/articles/10.3389/frobt.2023.1193388/full" target="_blank">Accepted Journal paper at Frontiers in AI and Robotics</a>**\
+On using Deep Learning to assess handwriting task difficulty levels. ”\
+_September, 2023_
 
 **<a href="https://ieeexplore.ieee.org/document/10113808" target="_blank">Accepted Journal paper at ToH</a>**\
 Under the special issue of World Haptics Conference 2023 ”\
