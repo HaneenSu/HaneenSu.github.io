@@ -8,7 +8,7 @@ Prior to NYU, I obtained a master’s degree in Microsystems Engineering from [M
 You can contact me at haneen@nyu.edu
 
 
-<a href="https://Haneensu.github.io/cv/Haneen_CV_Mar6.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=vqt4vMoAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/haneen-alsuradi-7a2335a4/), [Github](https://github.com/HaneenSu)
+<a href="https://Haneensu.github.io/cv/Haneen_CV_Jan24.pdf" target="_blank">CV</a>, [Google Scholar](https://scholar.google.com/citations?user=vqt4vMoAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/haneen-alsuradi-7a2335a4/), [Github](https://github.com/HaneenSu)
 <!-- Remove above link if you don't want to attibute -->
 
 
