@@ -16,6 +16,12 @@ You can contact me at haneen@nyu.edu
 
 ### News!
 
+
+**<a href="https://iopscience.iop.org/article/10.1088/1741-2552/ad33b3" target="_blank">Accepted Journal paper at JNE</a>**\
+Five-Finger Motor Imagery Classification: A Data-Driven Approach with Shapley-Informed Augmentation\
+_March, 2024_
+
+
 **<a href="https://iopscience.iop.org/article/10.1088/1741-2552/acfbf9/pdf" target="_blank">Accepted Journal paper at JNE</a>**\
 On vibration intensity classification from single trial EEG data\
 _September, 2023_
