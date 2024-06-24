@@ -16,6 +16,10 @@ You can contact me at haneen@nyu.edu
 
 ### News!
 
+**<a href="https://www.nature.com/articles/s41598-024-65289-6" target="_blank">Accepted Journal paper at Scientific Reports</a>**\
+EEG correlates to perceived urgency elicited by vibration stimulation of the upper body\
+_June, 2024_
+
 
 **<a href="https://iopscience.iop.org/article/10.1088/1741-2552/ad33b3" target="_blank">Accepted Journal paper at JNE</a>**\
 Five-Finger Motor Imagery Classification: A Data-Driven Approach with Shapley-Informed Augmentation\
