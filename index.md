@@ -16,6 +16,11 @@ You can contact me at haneen@nyu.edu
 
 ### News!
 
+**<a href="https://www.nature.com/articles/s41598-024-72358-3" target="_blank">Accepted Journal paper at Scientific Reports</a>**\
+Neural signatures of motor imagery for a supernumerary thumb in VR: an EEG analysis\
+September, 2024_
+
+
 **<a href="https://www.nature.com/articles/s41598-024-70508-1" target="_blank">Accepted Journal paper at Scientific Reports</a>**\
 Evaluation of perceived urgency from single-trial EEG data elicited by upper-body vibration feedback using deep learning\
 August, 2024_
