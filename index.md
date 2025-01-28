@@ -16,6 +16,10 @@ You can contact me at haneen@nyu.edu
 
 ### News!
 
+**<a href="https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2024.1443010/full" target="_blank">Accepted Journal paper at Frontiers in Neurorobotics</a>**\
+Neuro-controlled Wearable Augmentations: Current Research and Emerging Trends\
+Octobrt, 2024_
+
 **<a href="https://www.nature.com/articles/s41598-024-72358-3" target="_blank">Accepted Journal paper at Scientific Reports</a>**\
 Neural signatures of motor imagery for a supernumerary thumb in VR: an EEG analysis\
 September, 2024_
